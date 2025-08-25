@@ -70,8 +70,8 @@ www.example.com → [my-static-site.s3-website-us-east-1.amazonaws.com](http://m
 
 ### 🔹 5. Enable Versioning in S3
 
-#### Go to S3 → Bucket → Properties → Enable Versioning.
-This helps rollback deployments if needed.
+- #### Go to S3 → Bucket → Properties → Enable Versioning.
+- This helps rollback deployments if needed.
 
 ### 🔹 6. Deployment Flow
 
@@ -81,7 +81,7 @@ This helps rollback deployments if needed.
 
 ### ✅ Deliverables
 
-Live URL: http://mgs3staticwebsit.s3-website-ap-southeast-1.amazonaws.com/ (not via Cloudflare HTTPS because its paid feature)
+- Live URL: http://mgs3staticwebsit.s3-website-ap-southeast-1.amazonaws.com/ (not via Cloudflare HTTPS because its paid feature)
 
 ### Screenshot Examples
 
