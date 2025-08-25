@@ -60,7 +60,7 @@ jobs:
 1. Add your domain in Cloudflare Dashboard
 2. Update your Domain Registrar nameservers → point to Cloudflare.
 3. Create a CNAME Record in Cloudflare:
-www.example.com → my-static-site.s3-website-us-east-1.amazonaws.com
+www.example.com → [my-static-site.s3-website-us-east-1.amazonaws.com](http://mgs3staticwebsit.s3-website-ap-southeast-1.amazonaws.com/]
 
 4. Proxy status: Proxied (orange cloud)
 5. In Cloudflare → SSL/TLS → set Full (Strict).
@@ -79,11 +79,11 @@ This helps rollback deployments if needed.
 2. Cloudflare caches globally & serves via HTTPS.
 
 
-# ✅ Deliverables
+### ✅ Deliverables
 
 Live URL: http://mgs3staticwebsit.s3-website-ap-southeast-1.amazonaws.com/ (not via Cloudflare HTTPS because its paid feature)
 
-# Screenshot Examples
+### Screenshot Examples
 
 1. GitHub Actions successful run: <img width="1920" height="863" alt="Workflow runs · MgELevateLabsInternship_s3StaticWebsite - Brave 25-08-2025 16_09_06" src="https://github.com/user-attachments/assets/28dd2c69-db8d-45a1-8dcd-60d4a6957ceb" />
 
