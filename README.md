@@ -81,7 +81,7 @@ www.example.com → [my-static-site.s3-website-us-east-1.amazonaws.com](http://m
 
 ### ✅ Deliverables
 
-- Live URL: http://mgs3staticwebsit.s3-website-ap-southeast-1.amazonaws.com/ (not via Cloudflare HTTPS because its paid feature)
+- Live URL: http://mgs3staticwebsit.s3-website-ap-southeast-1.amazonaws.com/ (not via Cloudflare HTTPS because domain is paid feature)
 - [Scalable_Static_Website_Report.pdf](Scalable_Static_Website_Report.pdf)
 
 ### Screenshot Examples
